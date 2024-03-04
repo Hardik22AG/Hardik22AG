@@ -1,16 +1,11 @@
 ### Hi there 👋
-
-<!--
-**Hardik22AG/Hardik22AG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I’m currently working as a Data Analyst🏢.
+* I’m looking to collaborate on Data Science projects and usage of popular machine learning algorithms.
+* I’m looking for projects with advanced topics of Data Science, like time series, computer vision, NLP for knowing more in this.
+* Fundamentals in machine learning, deep learning.
+* Proficiency in Python libraries such as NumPy, Pandas, Scikit-learn, Tensorflow, PyTorch.
+* Experience with business intelligence tools like Microsoft Power BI.
+* Good background in generative AI, natural language processing, and large language models.
+* Practical knowledge in MS Excel, exploratory data analysis, data visualization, statistical analysis, and time series analysis.
+* Experience with popular algorithms like linear regression, logistic regression, decision tree, random forest, XG Boost and more.
+* Knowledge of dimensionality reduction techniques and clustering algorithms.
